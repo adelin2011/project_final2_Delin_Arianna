@@ -1,0 +1,39 @@
+#container{
+	max-width: 1200px;
+	margin: auto; 
+}
+
+#header{
+	background-color: #204fc1; 
+	width: 100%;
+	margin-bottom: 10px; 
+}
+
+#logo{
+	margin-left: 10px; 
+}
+
+#navigation{
+	width: 100%;
+	margin: auto; 
+	padding: 0;
+}
+
+#navigation ul{
+	margin: 0; 
+	list-style: none; 
+}
+
+#navigation li{
+	float: left;
+}
+
+#navigation a{
+	display: inline;
+	margin-left: 10px; 
+	margin-right: 10px; 
+	padding: 10px 10px 10px 10px;
+	font-size: 1em; 
+	color: #a50102;
+	font-weight: bold; 
+}
