@@ -70,3 +70,11 @@ h1{
 }
 
 /*sidebar*/
+#sidebar{
+	margin: auto; 
+	width: 40%;
+	background-color: #ddd0b5; 
+	padding: 10px 10px 10px 10px;
+}
+
+
