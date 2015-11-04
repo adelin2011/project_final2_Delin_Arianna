@@ -8,6 +8,10 @@ html{
 	box-sizing: inherent;
 }
 
+.site container{
+	max-width: 1200px; 
+}
+
 #container{
 	max-width: 1200px;
 	margin: auto;
