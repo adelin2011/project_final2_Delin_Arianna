@@ -63,6 +63,7 @@ html{
 #content{
 	width: 100%
 	height: auto;
+	float: left;
 }
 
 h1{
@@ -73,6 +74,7 @@ h1{
 #button{
 	width: 150px;
 	padding-left: 40px;
+	clear: both;
 }
 
 #colors{
@@ -85,4 +87,14 @@ h1{
 	width: 40%;
 	background-color: #ddd0b5;
 	padding: 10px 10px 10px 10px;
+	margin-bottom: 20px; 
+	float: right;
+}
+
+#image1{
+	text-align: center; 
+}
+
+#image2{
+	text-align: center; 
 }
