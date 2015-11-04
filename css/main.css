@@ -3,6 +3,7 @@
 	margin: auto; 
 }
 
+/*header*/
 #header{
 	background-color: #204fc1; 
 	width: 100%;
@@ -37,3 +38,9 @@
 	color: #a50102;
 	font-weight: bold; 
 }
+
+#navigation a:hover, .current_page a{
+	color: #d8b405; 
+}
+
+/*content*/
