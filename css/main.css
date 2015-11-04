@@ -28,6 +28,7 @@ html{
 	margin: auto;
 	margin-top: 10px;
 	padding: 0;
+	text-align: center; 
 }
 
 #navigation ul{
@@ -63,7 +64,6 @@ html{
 #content{
 	width: 100%
 	height: auto;
-	float: left;
 }
 
 h1{
@@ -84,23 +84,23 @@ h1{
 /*sidebar*/
 #sidebar{
 	margin: auto;
-	width: 40%;
+	width: 80%;
 	background-color: #ddd0b5;
 	padding: 10px 10px 10px 10px;
 	margin-bottom: 20px; 
-	float: right;
 }
 
 #image1{
 	text-align: center; 
+	padding-top: 20px; 
 }
 
 #image2{
 	text-align: center; 
+	padding-bottom: 20px; 
 }
 
 footer{
 	text-align: center; 
 	color: #204fc1;
-	clear: both;
 }
