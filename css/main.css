@@ -12,6 +12,17 @@ html{
 	max-width: 1200px; 
 }
 
+.visuallyhidden{
+	border:0;
+	clip:rect(0 0 0 0);
+	height: 1px;
+	margin: -1px; 
+	overflow: hidden;
+	padding: 0; 
+	position: absolute;
+	width: 1px; 
+}
+
 #container{
 	max-width: 1200px;
 	margin: auto;
@@ -79,6 +90,10 @@ html{
 h1{
 	margin-top: 65px;
 	font-size: 2em;
+}
+
+h2{
+	font-size: 1em; 
 }
 
 #button{
