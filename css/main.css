@@ -12,6 +12,12 @@ html{
 	max-width: 1200px; 
 }
 
+@media (min-width: 502px){
+	h1{
+		display: inline;
+	}
+}
+
 #container{
 	max-width: 1200px;
 	margin: auto;
