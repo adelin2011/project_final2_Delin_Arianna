@@ -12,12 +12,6 @@ html{
 	max-width: 1200px; 
 }
 
-@media (min-width: 502px){
-	h1{
-		display: inline;
-	}
-}
-
 #container{
 	max-width: 1200px;
 	margin: auto;
@@ -31,6 +25,12 @@ html{
 
 #logo{
 	margin-left: 10px;
+}
+
+@media (min-width: 392px){
+	#navigation{
+		display: block;
+	}
 }
 
 #navigation{
@@ -92,6 +92,12 @@ h1{
 }
 
 /*sidebar*/
+@media (min-width: 404px){
+	#sidebar{
+		width: 88%;
+	}
+}
+
 #sidebar{
 	margin: auto;
 	width: 85%;
