@@ -93,11 +93,10 @@ h1{
 }
 
 h2{
-	font-size: 1em; 
+	text-shadow: 2px 2px 3px ##204fc1;
 }
 
 #button{
-	width: 150px;
 	padding-left: 40px;
 	clear: both;
 }
@@ -122,16 +121,16 @@ h2{
 }
 
 #image1{
-	text-align: center; 
-	padding-top: 20px; 
+	text-align: center;
+	padding-top: 20px;
 }
 
 #image2{
-	text-align: center; 
-	padding-bottom: 20px; 
+	text-align: center;
+	padding-bottom: 20px;
 }
 
 footer{
-	text-align: center; 
+	text-align: center;
 	color: #204fc1;
 }
