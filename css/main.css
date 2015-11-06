@@ -26,11 +26,13 @@ html{
 #container{
 	max-width: 1200px;
 	margin: auto;
+	padding-left: 30px;
+	padding-right: 30px;
 }
 
 /*header*/
 #header{
-	background-color: #204fc1;
+	background-color: #3d68d0;
 	width: 100%;
 }
 
@@ -101,6 +103,10 @@ h2{
 #button{
 	padding-left: 40px;
 	clear: both;
+}
+
+#button a:hover{
+	color: #3d68d0; 
 }
 
 #colors{
